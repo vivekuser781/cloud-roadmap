@@ -11,4 +11,3 @@
 Cloud computing roadmap started.
 Created GitHub repository.
 
-## Screenshots
